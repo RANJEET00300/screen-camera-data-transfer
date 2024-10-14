@@ -24,7 +24,7 @@ Installation
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/yourusername/screen-camera-data-transfer.git
+git clone https://github.com/RANJEET00300/screen-camera-data-transfer.git
 Navigate to the project directory:
 bash
 Copy code
